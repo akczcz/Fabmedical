@@ -124,6 +124,6 @@
   },
   "defaultProject": "content-web",
   "cli": {
-    "analytics": "59c7546e-168f-44bf-acea-2cb0211cda6c"
-  }
+    "analytics": false
+}
 }
