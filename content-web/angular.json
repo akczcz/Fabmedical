@@ -125,5 +125,5 @@
   "defaultProject": "content-web",
   "cli": {
     "analytics": false
-}
+  }
 }
